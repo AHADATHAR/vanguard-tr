@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.tanstack/
+bun.lockb
+bunfig.toml
+
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
+!.env.example
+
+coverage/
+*.log
